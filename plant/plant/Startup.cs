@@ -30,6 +30,11 @@ namespace plant
                 options.CheckConsentNeeded = context => true;
                 options.MinimumSameSitePolicy = SameSiteMode.None;
             });
+           ///hello git
+           ///this your first visual change
+           ///ok 
+           ///
+
 
 
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
